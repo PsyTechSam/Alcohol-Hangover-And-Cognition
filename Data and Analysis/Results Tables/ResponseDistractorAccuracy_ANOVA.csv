@@ -1,0 +1,8 @@
+﻿Effect,F,significance,η²,η²p ,Bfincl
+Hangover condition,2.536,.125,0.021,0.099,0.321
+Response condition,11.806,<.001,0.106,0.339,128.532
+Distractor condition,0.723,.404,0.001,0.030,0.093
+Hangover condition * response condition,0.005,.995,4.246x10^-5,2.353x10^-4,0.130
+Hangover condition * distractor condition,0.098,.757,1.573x10^-4,0.004,0.046
+Response condition * distractor condition,0.100,.905,3.899x10^-4,0.004,0.049
+Hangover condition * response condition * distractor condition,3.154,0.052,0.016,0.121,0.028

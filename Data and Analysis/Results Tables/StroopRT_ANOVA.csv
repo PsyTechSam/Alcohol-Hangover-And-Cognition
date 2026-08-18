@@ -1,0 +1,5 @@
+﻿Variable,F,significance,η²,η²p ,Bfincl
+Hangover condition,1.18,.297,0.055,0.083,0.531
+Emotional valence,1.25,.303,0.013,0.088,0.203
+Hangover condition * emotional valence a,1.17,.311,0.016,0.083,0.168
+a = Greenhouse-Geisser corrected.,,,,,

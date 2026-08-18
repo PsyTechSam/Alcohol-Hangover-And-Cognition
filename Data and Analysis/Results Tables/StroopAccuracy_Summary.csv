@@ -1,0 +1,7 @@
+﻿Hangover Condition,Valence,Mean,SD,Min,Max
+Sober,Positive,0.952,0.043,0.889,1
+,Neutral,0.959,0.046,0.895,1
+,Negative,0.952,0.051,0.85,1
+Hangover,Positive,0.916,0.11,0.65,1
+,Neutral,0.956,0.063,0.8,1
+,Negative,0.944,0.06,0.842,1

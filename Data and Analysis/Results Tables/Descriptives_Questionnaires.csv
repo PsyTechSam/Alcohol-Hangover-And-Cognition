@@ -1,0 +1,15 @@
+﻿Measure,Condition.,Mean,SD,Min,Max
+BSRI rumination,Sober,341.08,207.67,24,778
+,Hangover,371.85,216.29,61,753
+ERQ Cognitive reappraisal,Sober,4.28,1.13,1.34,6.5
+,Hangover,4.34,1.11,2.17,6.67
+ERQ Expressive suppresion,Sober,4.12,1.01,1.25,5.75
+,Hangover,4.14,1.12,1.25,6.50
+1-item Hangover severity,Sober,0.15,0.46,0,2
+,Hangover,3.77,2.96,0,9
+Total hangover severity,Sober,27.54,18.58,2,78
+,Hangover,69.77,37.21,18,166
+Headache & thirst hangover symptom severity.,Sober,2.59,1.53,0.34,6.67
+,Hangover,5.14,2.12,1.34,9.34
+Gastric & cardiovascular hangover symptom severity.,Sober,0.60,0.75,0,2.80
+,Hangover,2.22,1.71,0,6.20

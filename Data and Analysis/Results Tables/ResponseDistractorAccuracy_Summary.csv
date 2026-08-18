@@ -1,0 +1,13 @@
+﻿Hangover condition,Response condition,Distractor condition,Mean,SD,Min,Max
+Sober,Change,Change,0.962,0.05,0.818,1
+,,Remain,0.95,0.046,0.838,1
+,Remain,Change,0.973,0.027,0.921,1
+,,Remain,0.972,0.029,0.917,1
+,Identical,Change,0.981,0.025,0.917,1
+,,Remain,0.989,0.019,0.944,1
+Hangover,Change,Change,0.939,0.075,0.677,1
+,,Remain,0.95,0.057,0.763,1
+,Remain,Change,0.966,0.054,0.781,1
+,,Remain,0.96,0.063,0.75,1
+,Identical,Change,0.982,0.025,0.917,1
+,,Remain,0.964,0.055,0.813,1
